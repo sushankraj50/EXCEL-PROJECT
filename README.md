@@ -25,3 +25,5 @@ Commute Behavior: People with shorter commute distances are more likely to buy b
 
 ## 5. Conclusion
 The analysis highlights that income level, age group, gender, and commute distance significantly influence bike purchasing behavior. These insights can guide targeted marketing strategies to improve bike sales.
+<img width="1593" height="656" alt="image" src="https://github.com/user-attachments/assets/3c20f008-edf6-489f-b7a3-16c7dc0a4184" />
+
